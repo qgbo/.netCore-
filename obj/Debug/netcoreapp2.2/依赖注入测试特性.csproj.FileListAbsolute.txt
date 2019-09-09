@@ -1,0 +1,11 @@
+D:\Work\RabbitMqStart\依赖注入测试特性\obj\Debug\netcoreapp2.2\依赖注入测试特性.csproj.CoreCompileInputs.cache
+D:\Work\RabbitMqStart\依赖注入测试特性\obj\Debug\netcoreapp2.2\依赖注入测试特性.AssemblyInfoInputs.cache
+D:\Work\RabbitMqStart\依赖注入测试特性\obj\Debug\netcoreapp2.2\依赖注入测试特性.AssemblyInfo.cs
+D:\Work\RabbitMqStart\依赖注入测试特性\bin\Debug\netcoreapp2.2\依赖注入测试特性.deps.json
+D:\Work\RabbitMqStart\依赖注入测试特性\bin\Debug\netcoreapp2.2\依赖注入测试特性.runtimeconfig.json
+D:\Work\RabbitMqStart\依赖注入测试特性\bin\Debug\netcoreapp2.2\依赖注入测试特性.runtimeconfig.dev.json
+D:\Work\RabbitMqStart\依赖注入测试特性\bin\Debug\netcoreapp2.2\依赖注入测试特性.dll
+D:\Work\RabbitMqStart\依赖注入测试特性\bin\Debug\netcoreapp2.2\依赖注入测试特性.pdb
+D:\Work\RabbitMqStart\依赖注入测试特性\obj\Debug\netcoreapp2.2\依赖注入测试特性.dll
+D:\Work\RabbitMqStart\依赖注入测试特性\obj\Debug\netcoreapp2.2\依赖注入测试特性.pdb
+D:\Work\RabbitMqStart\依赖注入测试特性\obj\Debug\netcoreapp2.2\依赖注入测试特性.csprojAssemblyReference.cache
