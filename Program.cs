@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System;
+using System.Collections.Generic;
 
 namespace 依赖注入测试特性
 {
@@ -21,7 +22,12 @@ namespace 依赖注入测试特性
 
             foreach (var item in t.CustomAttributes)
             {
-                var aa= Activator.CreateInstance(item.AttributeType,new object[] { "apple"});
+                List<Object> ar = new List<object>();
+                foreach (var arg in item.ConstructorArguments)
+                {
+                    ar.Add(arg.Value);
+                }
+               var aa= Activator.CreateInstance(item.AttributeType, ar.ToArray());
                 Console.WriteLine("-------");
             }
             Console.ReadLine();
